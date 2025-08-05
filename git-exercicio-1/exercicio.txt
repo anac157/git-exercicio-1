@@ -1,3 +1,4 @@
-git log
-git init
-git -v
+git log - Mostra o historico de commits realizados no repositorio
+git config Configura o nome de usuario que ira fazer os
+commits
+git init Inicia o git dentro do repositorio adicionando a pasta oculta .git
