@@ -1,5 +1,7 @@
-git commit
-git status
-git init
-git log
-git config
+git commit Realiza o commit (versionamento) do(s)
+arquivo(s) que estao no staging area
+git status Mostra o status atual dos arquivos no repositorio
+git init - Inicia o git dentro do repositorio adicionando a pasta oculta .git
+git log - Mostra o historico de commits realizados no repositorio
+git config - Configura o nome de usuario que ira fazer os
+commits.
